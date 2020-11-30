@@ -1,1 +1,1 @@
-# litebird_cr_simulator
+# Generative Adversarial Network for the simulation of cosmic ray glitches in LiteBIRD timelines
